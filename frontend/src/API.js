@@ -6,7 +6,7 @@ var baseURL;
 // } else {
 //     baseURL = 'https://travel-bug-backend1.herokuapp.com/';
 // }
-baseURL = 'https://travel-bug-backend2.herokuapp.com/';
+baseURL = 'https://travelbug-back.hameed951.repl.co/';
 
 // baseURL = "";
 const api = axios.create({
